@@ -1,3 +1,5 @@
 
 Please read core/INSTALL.txt for detailed installation instructions for your
 Drupal web site.
+
+# adding a comment
